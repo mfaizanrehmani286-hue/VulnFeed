@@ -1,0 +1,12 @@
+[
+  {
+    "vendor": "microsoft",
+    "product": "windows",
+    "version": ""
+  },
+  {
+    "vendor": "apache",
+    "product": "log4j",
+    "version": ""
+  }
+]
